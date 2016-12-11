@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S.I.C.M - Sistema Integrado de Gestão de Matrículas</string>
+    <string name="cpf">CPF</string>
+    <string name="acessar">Acessar</string>
+    <string name="num_ra">R.A (Registro Acadêmico)</string>
+    <string name="gerarMatricula">Matricular Aluno</string>
+</resources>
